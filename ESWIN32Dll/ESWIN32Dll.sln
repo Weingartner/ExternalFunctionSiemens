@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESWIN32Dll", "ESWIN32Dll\ESWIN32Dll.vcproj", "{74F8CBFC-E614-428D-A25E-02FADB667C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F8CBFC-E614-428D-A25E-02FADB667C0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74F8CBFC-E614-428D-A25E-02FADB667C0F}.Debug|Win32.Build.0 = Debug|Win32
+		{74F8CBFC-E614-428D-A25E-02FADB667C0F}.Release|Win32.ActiveCfg = Release|Win32
+		{74F8CBFC-E614-428D-A25E-02FADB667C0F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
